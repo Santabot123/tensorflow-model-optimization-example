@@ -1,4 +1,4 @@
-This is an example of diferent tenserflow model optimization technics. <br>
+This is an example of diferent tensorflow model optimization technics. <br>
 <br>
 In this example, Chest X-Ray dataset(https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) was used. <br>
 <br>
